@@ -94,12 +94,11 @@ Bibtex:
 
 ```text
 @inproceedings{
-anonymous2022igeood,
+gomes2022igeood,
 title={Igeood: An Information Geometry Approach to Out-of-Distribution Detection},
-author={Anonymous},
-booktitle={Submitted to The Tenth International Conference on Learning Representations },
+author={Eduardo Dadalto Camara Gomes and Florence Alberge and Pierre Duhamel and Pablo Piantanida},
+booktitle={International Conference on Learning Representations},
 year={2022},
-url={https://openreview.net/forum?id=mfwdY3U_9ea},
-note={under review}
+url={https://openreview.net/forum?id=mfwdY3U_9ea}
 }
 ```
